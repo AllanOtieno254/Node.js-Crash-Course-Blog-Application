@@ -22,7 +22,7 @@ The goal of this project is to understand how servers work, how clients communic
 
 ## 🛠️ Technologies Used
 
-- **Node.js**
+- **Node.js** 
 - **Express.js**
 - **MongoDB Atlas**
 - **Mongoose**
